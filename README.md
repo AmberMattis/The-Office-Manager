@@ -4,6 +4,3 @@ This project is a tribute to one of my favorite television shows, The Office. Th
 
 The goal of the office manager project is to provide practice with fullstack web development and the MVC design pattern. 
 
-<p align="center">
-    <img src="src/main/webapp/img/SOJU-Database-Design.png" alt="S O J U">
-</p>
